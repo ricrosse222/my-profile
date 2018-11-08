@@ -1,4 +1,4 @@
-body { background-color: rgb(100, 60, 126);
+body { background-color: rgb(10, 60, 126);
     color: rgb(0, 0, 0);
     font-family: 'Lora', serif;
     font-weight: bold;
@@ -46,7 +46,8 @@ h3 {
   background: white;
   padding: 30px;
   border: 1px solid lightgrey;
-list-inline {
+}
+.list-inline {
   list-style: none; 
   padding-left: 0px; 
 }
