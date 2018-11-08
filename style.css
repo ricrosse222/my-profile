@@ -1,4 +1,4 @@
-body { background-color: rgb(35, 60, 126);
+body { background-color: rgb(100, 60, 126);
     color: rgb(0, 0, 0);
     font-family: 'Lora', serif;
     font-weight: bold;
@@ -25,6 +25,6 @@ h3 {
   color: #0923b0;
     font-size: 40px;
     font-family: 'Roboto', sans-serif;
-    font-weight: 200;
+    font-weight: 600;
     margin: auto;
 }
