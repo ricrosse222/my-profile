@@ -1,0 +1,30 @@
+body { background-color: rgb(35, 60, 126);
+    color: rgb(0, 0, 0);
+    font-family: 'Lora', serif;
+    font-weight: bold;
+	letter-spacing: 100px
+	font-size: 60px;
+	text-align: center; 
+	}
+
+h1 { color: #0923b0;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    margin: auto;
+}
+h2 {
+  color: #0923b0;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    margin: auto;
+}
+
+h3 {
+  color: #0923b0;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    margin: auto;
+}
